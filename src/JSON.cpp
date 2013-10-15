@@ -74,6 +74,10 @@ JSONValue *JSON::Parse(const char *data)
 		free(w_data);
 		return value;
 	}
+    else
+    {
+        return NULL;
+    }
 }
 
 /**
