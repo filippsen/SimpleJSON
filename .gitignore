@@ -1,0 +1,6 @@
+*xcworkspace*
+*xcuserdata*
+JSONDemo
+lib/*.a
+obj/*.o
+obj/demo/*.o
