@@ -25,9 +25,6 @@
 #ifndef _JSONVALUE_H_
 #define _JSONVALUE_H_
 
-#include <vector>
-#include <string>
-
 #include "JSON.h"
 
 class JSON;

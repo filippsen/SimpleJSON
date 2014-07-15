@@ -22,14 +22,8 @@
  * THE SOFTWARE.
  */
 
-#include <stdio.h>
-#include <string.h>
-#include <stdlib.h>
-#include <vector>
-#include <string>
-#include <sstream>
-#include <iostream>
-#include <math.h>
+#include <sstream>      // wstringstream
+#include <math.h>       // isinf, isnan
 
 #include "JSONValue.h"
 
